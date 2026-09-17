@@ -4,9 +4,9 @@ from openai import OpenAI
 
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "llx875153394"
+NEO4J_PASSWORD = ""
 
-OPENAI_API_KEY = "sk-1ad190e4848b4239975257a8ff7b6a1a"
+OPENAI_API_KEY = "sk-*"
 OPENAI_BASE_URL = "https://api.deepseek.com/v1"
 MODEL_NAME = "deepseek-chat"
 
